@@ -1,0 +1,6 @@
+openai
+langchain
+tiktoken
+gradio
+pip>=23.2
+gradio_client==0.2.7
